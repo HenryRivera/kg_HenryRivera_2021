@@ -110,10 +110,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="313" y="64" key="CommitChangelistDialog2" timestamp="1584499757731">
+    <state x="313" y="64" key="CommitChangelistDialog2" timestamp="1584500552971">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="313" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1584499757731" />
+    <state x="313" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1584500552971" />
     <state width="1363" height="230" key="GridCell.Tab.0.bottom" timestamp="1584499783329">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -130,10 +130,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1363" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584499783328" />
-    <state x="211" y="100" key="SettingsEditor" timestamp="1584500380638">
+    <state x="211" y="100" key="SettingsEditor" timestamp="1584500578257">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="211" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584500380638" />
+    <state x="211" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1584500578257" />
+    <state x="507" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584500529824">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1584500529824" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kg_HenryRivera_2021$main.coverage" NAME="main Coverage Results" MODIFIED="1584489682174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

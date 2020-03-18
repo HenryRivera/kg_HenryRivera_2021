@@ -12,5 +12,5 @@ def mapping(s1, s2):
             # If duplicates in s1 return False
             print("false")
             return
-    # End of loops, no duplicates in s1, return True
+    # End of loops, no duplicates found in s1, return True
     print("true")
