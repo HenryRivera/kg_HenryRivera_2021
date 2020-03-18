@@ -4,7 +4,7 @@ def mapping(s1, s2):
     if len(s1) != len(s2):
         print("false")
         return
-    # Lengths the same
+    # If lengths are the same
     for i in s1:
         if i not in vals:
             vals[i] = 1
